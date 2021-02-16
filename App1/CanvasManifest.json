@@ -1,8 +1,8 @@
 {
   "FormatVersion": "0.14",
   "Header": {
-    "DocVersion": "1.300",
-    "MinVersionToLoad": "1.300",
+    "DocVersion": "1.301",
+    "MinVersionToLoad": "1.301",
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
@@ -27,7 +27,6 @@
       "enhanceddelegation",
       "aibuilderserviceenrollment",
       "enablesummerlandgeospatialfeatures",
-      "enablesummerlandmixedrealityfeatures",
       "optimizedforteamsmeeting"
     ],
     "Author": "",

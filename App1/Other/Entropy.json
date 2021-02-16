@@ -1,5 +1,5 @@
 {
-  "AppCheckerResult": "{\"$schema\":\"https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json\",\"version\":\"2.1.0\",\"runs\":[{\"results\":[{\"ruleId\":\"acc-ReadableScreenNameNeeded\",\"ruleIndex\":0,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"Screen1\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"Screen1\"}],\"properties\":{\"module\":\"Screen1\",\"type\":\"Screen1\"}}],\"properties\":{\"level\":\"Low\"}}],\"tool\":{\"driver\":{\"name\":\"PowerApps app checker\",\"fullName\":\"PowerApps app checker\",\"version\":\"1.300\",\"rules\":[{\"id\":\"acc-ReadableScreenNameNeeded\",\"messageStrings\":{\"issue\":{\"text\":\"Revise screen name\"}},\"properties\":{\"howToFix\":[\"Give the screen  a title that describes what's on the screen or what it's used for.\"],\"whyFix\":\"People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. \",\"level\":\"Low\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}}]}},\"invocations\":[{\"startTimeUtc\":\"2021-01-19T23:19:43.575Z\",\"endTimeUtc\":\"2021-01-19T23:19:43.578Z\",\"executionSuccessful\":true}],\"columnKind\":\"utf16CodeUnits\"}]}",
+  "AppCheckerResult": "{\"$schema\":\"https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.4.json\",\"version\":\"2.1.0\",\"runs\":[{\"results\":[{\"ruleId\":\"acc-ReadableScreenNameNeeded\",\"ruleIndex\":0,\"message\":{\"id\":\"issue\"},\"locations\":[{\"physicalLocation\":{\"address\":{\"relativeAddress\":0,\"fullyQualifiedName\":\"Screen1\"}},\"logicalLocations\":[{\"fullyQualifiedName\":\"Screen1\"}],\"properties\":{\"module\":\"Screen1\",\"type\":\"Screen1\"}}],\"properties\":{\"level\":\"Low\"}}],\"tool\":{\"driver\":{\"name\":\"PowerApps app checker\",\"fullName\":\"PowerApps app checker\",\"version\":\"1.301\",\"rules\":[{\"id\":\"acc-ReadableScreenNameNeeded\",\"messageStrings\":{\"issue\":{\"text\":\"Revise screen name\"}},\"properties\":{\"howToFix\":[\"Give the screen  a title that describes what's on the screen or what it's used for.\"],\"whyFix\":\"People who are blind, have low vision, or a reading disability rely on screen titles to navigate using the screen reader. \",\"level\":\"Low\",\"componentType\":\"app\",\"primaryCategory\":\"accessibility\"}}]}},\"invocations\":[{\"startTimeUtc\":\"2021-02-16T01:12:54.490Z\",\"endTimeUtc\":\"2021-02-16T01:12:54.578Z\",\"executionSuccessful\":true}],\"columnKind\":\"utf16CodeUnits\"}]}",
   "ComponentIndexes": {},
   "ControlUniqueIds": {
     "App": 1,
@@ -8,9 +8,9 @@
     "Label3": 6,
     "Screen1": 3
   },
-  "HeaderLastSavedDateTimeUTC": "01/19/2021 15:19:43",
+  "HeaderLastSavedDateTimeUTC": "02/15/2021 17:12:54",
   "LocalResourceRootPaths": {},
-  "OldLogoFileName": "xsfnrxtz.jpg",
+  "OldLogoFileName": "kwpayuqh.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
   "OrderDataSource": {
@@ -25,11 +25,11 @@
   },
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.1715025,
+    "AnalysisLoadTime": 0.1740957,
     "ControlCount": {
-      "label": 2,
+      "label": 3,
       "screen": 1
     },
-    "DeserializationLoadTime": 82.3960019
+    "DeserializationLoadTime": 97.1320901
   }
 }
