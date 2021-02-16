@@ -21,7 +21,7 @@ Screen1 As screen:
         Size: =21
 
     Label3 As label:
-        Text: ="Hello !!!"
+        Text: ="Hello, Again !!!"
         X: =40
         Y: =386
         Width: =560
