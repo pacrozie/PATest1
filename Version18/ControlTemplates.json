@@ -5,6 +5,7 @@
     "Id": "http://microsoft.com/appmagic/appinfo",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
+    "IsPremiumPcfControl": false,
     "LastModifiedTimestamp": "0",
     "Name": "appinfo",
     "OverridableProperties": {},
@@ -24,10 +25,11 @@
     "Id": "http://microsoft.com/appmagic/label",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
+    "IsPremiumPcfControl": false,
     "LastModifiedTimestamp": "0",
     "Name": "label",
     "OverridableProperties": {},
-    "Version": "2.3.0"
+    "Version": "2.3.1"
   },
   "screen": {
     "CustomGroupControlTemplateName": "",
@@ -35,6 +37,7 @@
     "Id": "http://microsoft.com/appmagic/screen",
     "IsComponentTemplate": false,
     "IsCustomGroupControlTemplate": false,
+    "IsPremiumPcfControl": false,
     "LastModifiedTimestamp": "0",
     "Name": "screen",
     "OverridableProperties": {},

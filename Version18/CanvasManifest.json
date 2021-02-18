@@ -1,8 +1,8 @@
 {
   "FormatVersion": "0.18",
   "Header": {
-    "DocVersion": "1.294",
-    "MinVersionToLoad": "1.294",
+    "DocVersion": "1.301",
+    "MinVersionToLoad": "1.301",
     "MSAppStructureVersion": "2.0"
   },
   "Properties": {
@@ -27,7 +27,7 @@
       "enhanceddelegation",
       "aibuilderserviceenrollment",
       "enablesummerlandgeospatialfeatures",
-      "enablesummerlandmixedrealityfeatures"
+      "optimizedforteamsmeeting"
     ],
     "Author": "",
     "ContainsThirdPartyPcfControls": false,
@@ -51,6 +51,8 @@
   "PublishInfo": {
     "AppName": "App",
     "BackgroundColor": "rgba(0, 176, 240, 1)",
+    "IconColor": "RGBA(255,255,255,1)",
+    "IconName": "Edit",
     "LogoFileName": "logo.jpg",
     "PublishDataLocally": false,
     "PublishResourcesLocally": false,

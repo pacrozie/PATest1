@@ -1,6 +1,9 @@
 {
   "e55fde14-b601-48bb-b032-b8c5704656ac": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_msnweather/connections/shared-msnweather-8d08e763-937a-45bf-a2ea-c5ed-ecc70ca4",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_msnweather/connections/e62f32ca5b414b0a9226b37b1bc4404c",
+    "connectionParameters": {
+      "sku": "Enterprise"
+    },
     "connectionRef": {
       "displayName": "MSN Weather",
       "iconUri": "https://connectoricons-df.azureedge.net/msnweather/icon_1.0.1347.1996.png",
