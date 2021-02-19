@@ -12,7 +12,7 @@ Screen1 As screen:
         Size: =21
 
     Label2 As label:
-        Text: ="Hello Again x6"
+        Text: ="Hello Again x7"
         X: =40
         Y: =130
         Width: =560
