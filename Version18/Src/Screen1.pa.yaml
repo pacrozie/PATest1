@@ -12,7 +12,7 @@ Screen1 As screen:
         Size: =21
 
     Label2 As label:
-        Text: ="Hello from Github2"
+        Text: ="Hello from Github3"
         X: =40
         Y: =130
         Width: =560
