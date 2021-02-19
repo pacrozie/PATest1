@@ -1,37 +1,13 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {
-    "App": 1,
-    "Label1": 4,
-    "Label2": 5,
-    "Screen1": 3
-  },
-  "HeaderLastSavedDateTimeUTC": "02/19/2021 15:05:35",
+  "ControlUniqueIds": {},
   "LocalResourceRootPaths": {},
-  "OldLogoFileName": "p30umooo.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {
-    "MSNWeather": 0
-  },
+  "OrderDataSource": {},
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {
-    "label": 0
-  },
-  "PublishOrderIndices": {
-    "App": 0,
-    "Label1": 0,
-    "Label2": 1,
-    "Screen1": 0
-  },
-  "TemplateVersions": {},
-  "VolatileProperties": {
-    "AnalysisLoadTime": 0.1825943,
-    "ControlCount": {
-      "label": 2,
-      "screen": 1
-    },
-    "DeserializationLoadTime": 3.471934
-  }
+  "OrderXMLTemplate": {},
+  "PublishOrderIndices": {},
+  "TemplateVersions": {}
 }
