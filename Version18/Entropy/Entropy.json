@@ -1,13 +1,39 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Label1": 5,
+    "Label2": 6,
+    "Label3": 4,
+    "Screen1": 3
+  },
+  "HeaderLastSavedDateTimeUTC": "02/19/2021 15:15:49",
   "LocalResourceRootPaths": {},
+  "OldLogoFileName": "domazxyw.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "MSNWeather": 0
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
-  "TemplateVersions": {}
+  "OrderXMLTemplate": {
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Label1": 0,
+    "Label2": 1,
+    "Label3": 2,
+    "Screen1": 2
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.1642142,
+    "ControlCount": {
+      "label": 3,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 3.1224603
+  }
 }
