@@ -1,13 +1,39 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Label1": 4,
+    "Label2": 5,
+    "Label3": 6,
+    "Screen1": 3
+  },
+  "HeaderLastSavedDateTimeUTC": "02/19/2021 15:31:23",
   "LocalResourceRootPaths": {},
+  "OldLogoFileName": "edit1f52.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "MSNWeather": 0
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
-  "TemplateVersions": {}
+  "OrderXMLTemplate": {
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Label1": 3,
+    "Label2": 4,
+    "Label3": 5,
+    "Screen1": 2
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.2383724,
+    "ControlCount": {
+      "label": 3,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 3.3776557
+  }
 }
