@@ -1,13 +1,39 @@
 {
   "ComponentIndexes": {},
-  "ControlUniqueIds": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Label1": 4,
+    "Label2": 5,
+    "Label3": 6,
+    "Screen1": 3
+  },
+  "HeaderLastSavedDateTimeUTC": "02/19/2021 15:08:32",
   "LocalResourceRootPaths": {},
+  "OldLogoFileName": "ffbv4pcc.jpg",
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "MSNWeather": 0
+  },
   "OrderGroupControls": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
-  "PublishOrderIndices": {},
-  "TemplateVersions": {}
+  "OrderXMLTemplate": {
+    "label": 0
+  },
+  "PublishOrderIndices": {
+    "App": 0,
+    "Label1": 3,
+    "Label2": 4,
+    "Label3": 0,
+    "Screen1": 2
+  },
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0196823,
+    "ControlCount": {
+      "label": 2,
+      "screen": 1
+    },
+    "DeserializationLoadTime": 2.0405358
+  }
 }

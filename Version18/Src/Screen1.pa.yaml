@@ -20,3 +20,12 @@ Screen1 As screen:
         ZIndex: =2
         Size: =21
 
+    Label3 As label:
+        Text: ="Hi from studio"
+        X: =40
+        Y: =270
+        Width: =560
+        Height: =70
+        ZIndex: =3
+        Size: =21
+
