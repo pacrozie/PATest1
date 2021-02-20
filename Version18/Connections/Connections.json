@@ -1,6 +1,6 @@
 {
   "e55fde14-b601-48bb-b032-b8c5704656ac": {
-    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_msnweather/connections/e62f32ca5b414b0a9226b37b1bc4404c",
+    "connectionInstanceId": "/providers/microsoft.powerapps/apis/shared_msnweather/connections/0ab39b64ce9b4664b1efc88e446c9a6e",
     "connectionParameters": {
       "sku": "Enterprise"
     },

@@ -21,7 +21,7 @@ Screen1 As screen:
         Size: =21
 
     Label3 As label:
-        Text: ="Hi from studio 5"
+        Text: ="Hi from studio 5!"
         X: =40
         Y: =270
         Width: =560
